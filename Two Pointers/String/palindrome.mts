@@ -24,6 +24,10 @@ function isPalindrome_NOT_OPTIMIZED(s: string): boolean {
     return reversedStr === cleanStr; // Time: O(1)
 };
 
+
+// -------------------------------------------------------------------------------
+// second solution
+
 function isPalindrome(s: string): boolean {
     let n = s.length; // Space: O(1)
     let left = 0; // Space: O(1)

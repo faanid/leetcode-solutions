@@ -15,3 +15,6 @@ function fizzBuzz(n: number): string[] {
 
   return answer;
 }
+
+// time complexity O(n)
+// space complexity O(1)

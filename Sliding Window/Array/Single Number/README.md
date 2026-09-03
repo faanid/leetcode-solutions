@@ -6,7 +6,7 @@ Bit Manipulation (XOR)
 
 ---
 
-## Algorithm
+## Algorithm 
 
 1. Initialize `result` with `0`.
 2. Traverse every number in the array.
